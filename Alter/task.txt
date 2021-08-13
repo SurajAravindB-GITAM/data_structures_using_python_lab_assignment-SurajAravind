@@ -3,3 +3,5 @@ Objective is to mask the user details of a csv or excel sheet.  The input file i
 input file  ------>   code      ------>  masked file
 masked file ------> may be same code or an alternative   -------> we should get back the original input file
 
+A temporary script is also kept in this directory
+
