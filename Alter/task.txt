@@ -1,0 +1,5 @@
+Objective is to mask the user details of a csv or excel sheet.  The input file is available in the current directory itself.
+
+input file  ------>   code      ------>  masked file
+masked file ------> may be same code or an alternative   -------> we should get back the original input file
+
